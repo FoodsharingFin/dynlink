@@ -6,7 +6,11 @@
       "note": "TG_main",
       "url": "https://t.me/+2NxhCayA8bg4ODlk",
       "created": "2026-02-21T20:44:18.788Z",
-      "visits": 0
+      "visits": 0,
+      "redirectMessage": "",
+      "redirectSubmessage": "",
+      "redirectDuration": 2,
+      "updated": "2026-08-26T10:45:09.154Z"
     },
     {
       "id": 1771706859346,
@@ -35,8 +39,19 @@
       "url": "https://t.me/foodl123",
       "created": "2026-02-23T16:55:54.804Z",
       "visits": 0
+    },
+    {
+      "id": 1787741095762,
+      "slug": "nxt_evt",
+      "note": "nxt_evt",
+      "url": "https://luma.com/zfpz8bgp",
+      "created": "2026-08-26T10:44:55.762Z",
+      "visits": 0,
+      "redirectMessage": "",
+      "redirectSubmessage": "",
+      "redirectDuration": 2
     }
   ],
-  "exported": "2026-04-27T18:09:32.096Z",
+  "exported": "2026-08-26T10:45:24.234Z",
   "version": "1.0"
 }
